@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Antonio Lisbôa](https://github.com/Note45)! 😁
 
-Hello, my name is Antonio Lisbôa and I am a graduating student at [Federal University of Piaui](https://ufpi.br/) graduating with a Computer Science degree. I am a full-stack software developer with two years of experience working as a Software Engineer at [Baduk](https://www.baduk.vc/inicio). My technology stack involves Javascript, TypeScript, React, Redux, SASS, Styled-Components, NodeJS, and Express. Besides programming, I have an immense interest in films.
+Hello, my name is Antonio Lisbôa and I am a graduating student at [Federal University of Piaui](https://ufpi.br/) graduating with a Computer Science degree. I am a full-stack software developer with two years of experience. My technology stack involves Javascript, TypeScript, React, Redux, SASS, Styled-Components, NodeJS, and Express. Besides programming, I have an immense interest in films.
 
 - 🔭 I’m currently researching at the intersection of machine learning and digital image processing with the VIPLab
 - 💬 Brainstorm with me over tech, algorithms, career, music, and films 
